@@ -7,7 +7,7 @@ export const publicacionesBlog: PublicacionBlog[] = [
     extracto: 'Descubrí los secretos para organizar un viaje romántico inolvidable por los destinos más hermosos del país.',
     contenido: 'Planificar una luna de miel en Argentina requiere considerar varios factores clave. Primero, definí el tipo de experiencia que buscan: ¿aventura en la Patagonia, romance en los viñedos de Mendoza, o cultura en el norte? La época del año es crucial - el verano (diciembre-marzo) es ideal para la Patagonia, mientras que el otoño (marzo-mayo) es perfecto para Mendoza. Reserva con anticipación, especialmente en temporada alta, y considera contratar un operador especializado que pueda personalizar tu experiencia. No olvides incluir tiempo para relajarse y disfrutar de la gastronomía local. Argentina ofrece desde hoteles boutique hasta lodges de lujo, cada uno con su encanto particular.',
     tiempoLectura: '5 min',
-    imagen: 'https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg'
+    imagen: 'https://cdn0.bodas.net/article/7064/original/1280/jpg/4607-monte-fitz-roy.jpeg'
   },
   {
     id: '2',
