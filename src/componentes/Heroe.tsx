@@ -14,7 +14,7 @@ const Heroe: React.FC = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `linear-gradient(rgba(255, 182, 193, 0.3), rgba(255, 182, 193, 0.3)), url('https://images.pexels.com/photos/417344/pexels-photo-417344.jpeg')`
+          backgroundImage: `linear-gradient(rgba(255, 182, 193, 0.3), rgba(255, 182, 193, 0.3)), url('https://cdn0.bodas.com.mx/vendor/2799/3_2/1280/jpg/claudia-saldana-7_5_102799-166920557957732.jpeg')`
         }}
       >
       </div>
