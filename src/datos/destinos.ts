@@ -44,5 +44,19 @@ export const destinos: Destino[] = [
     descripcion: 'La linda del norte te seduce con su arquitectura colonial, sus paisajes coloridos y su rica cultura. Perfecta para parejas que buscan historia, cultura y tradición.',
     actividades: ['City tour colonial', 'Excursión a Cafayate', 'Degustación de vinos torrontés', 'Recorrido por Purmamarca'],
     imagen: 'https://res.cloudinary.com/worldpackers/image/upload/c_limit,f_auto,q_auto,w_1140/gxamaxdbtldw9evpgvkv'
+  },
+  {
+    id: 'elcalafate',
+    nombre: 'El Calafate',
+    provincia: 'Santa Cruz',
+    descripcion: 'El Calafate es la puerta de entrada al majestuoso Glaciar Perito Moreno y a los paisajes helados de la Patagonia Austral. Ideal para parejas aventureras que buscan naturaleza imponente y experiencias únicas.',
+    actividades: [
+      'Excursión al Glaciar Perito Moreno',
+      'Navegación por el Lago Argentino',
+      'Caminatas sobre hielo',
+      'Degustación de dulces regionales'
+    ],
+    imagen: '/james-cheung-6OUfJlD_vmQ-unsplash.jpg',
+    destacado: true
   }
 ];
