@@ -31,6 +31,7 @@ const PiePagina: React.FC = () => {
               <li><a href="#" className="text-gray-400 hover:text-yellow-400 transition-colors duration-200">Ushuaia</a></li>
               <li><a href="#" className="text-gray-400 hover:text-yellow-400 transition-colors duration-200">Iguazú</a></li>
               <li><a href="#" className="text-gray-400 hover:text-yellow-400 transition-colors duration-200">Salta</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-yellow-400 transition-colors duration-200">Calafate</a></li>
             </ul>
           </div>
 
